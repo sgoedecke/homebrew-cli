@@ -1,9 +1,9 @@
 class Urb < Formula
   desc "Urban Dictionary command line tool"
   homepage "https://github.com/sgoedecke/urb"
-  url "https://github.com/sgoedecke/urb/blob/master/urb-0.0.1.zip"
+  url "https://github.com/sgoedecke/urb/blob/master/urb-0.0.1.tar.gz"
   version "0.0.1"
-  sha256 "59f0ef90f00120a5e2a5b57ecb5ab291d66d7e2100469ffc6ca1d0d35fa9a51a"
+  sha256 "0f45cacea4f343d8b78badb613572f08153fc07f9a2fc476d9889b9b88c8f8be"
 
   def install
     bin.install "urb"
