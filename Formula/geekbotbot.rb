@@ -1,4 +1,4 @@
-class GeekBotBot < Formula
+class Geekbotbot < Formula
   desc "Generate random standup notes from Geekbot Slack logs"
   homepage "https://github.com/sgoedecke/markov-standup"
   url "https://raw.githubusercontent.com/sgoedecke/markov-standup/master/geekbotbot-1.0.0.tar.gz"
