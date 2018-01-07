@@ -7,6 +7,6 @@ class Geekbotbot < Formula
 
   def install
     libexec.install Dir["*"]
-    bin.write_exec_script (libexec/"standup")
+    bin.write_exec_script (libexec/"standup.rb")
   end
 end
